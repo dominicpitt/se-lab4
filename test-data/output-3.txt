@@ -1,4 +1,4 @@
 SUCCESS  # <- GT4500
 SUCCESS  # <- TORPEDO
 SUCCESS
-FAIL
+FAIL    # elfogyott a TORPEDO
