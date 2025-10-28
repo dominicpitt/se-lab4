@@ -1,0 +1,4 @@
+# egy hajó ami mind a 2 lövedékét ellövi
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,ALL
